@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+model_output/
+data/raw/
+*.csv
+*.parquet
+.DS_Store
+logs/
